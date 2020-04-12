@@ -2,11 +2,4 @@ site_name: Tedeapolis
 site_description: 'Documentatie van tedeapolis roleplay'
 site_author: 'Tedeapolis'
 theme:
-  name: 'material'
-  language: 'nl'
-    palette:
-      primary: 'indigo'
-      accent: 'indigo'
-  font:
-    text: 'Roboto'
-    code: 'Roboto Mono'
+  name: material
