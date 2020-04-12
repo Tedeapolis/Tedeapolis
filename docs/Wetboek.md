@@ -245,6 +245,10 @@ Bodycam beelden zijn op de volgende manier toegestaan
 ## Artikel 36
 1. Wanneer een journalist bezig is met een opname of live is is het niet toegestaan deze te storen. Wanneer deze regel overtreden wordt zal dit resulteren in een ban tot de opname voorbij is en een straf volgens de 1e categorie.
 
+## Artikel 37
+1. Het is verboden om jezelf of als organisatie te verkleding op uiterlijk van een overheidsmedewerker.
+2. Bij overtreding van deze regels zal er een straf uitgedeeld worden volgend de 2e catogorie.
+
 
 ## Regels in het kort
 
