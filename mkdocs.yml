@@ -5,8 +5,8 @@ theme:
   name: 'material'
   language: 'nl'
     palette:
-    primary: 'indigo'
-    accent: 'indigo'
+      primary: 'indigo'
+      accent: 'indigo'
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
