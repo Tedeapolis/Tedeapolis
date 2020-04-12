@@ -60,6 +60,7 @@
 ## Artikel 7
 
 1. Hij die gebruik maakt van software/hulpmiddelen van derde partijen om profijt te krijgen in het spel (cheats) zal bestraft worden volgens de 7e categorie.
+2. Enkele voorbeelden hiervan zijn onder andere een chrossair en of cheats
 
 ## Artikel 8
 
@@ -248,6 +249,11 @@ Bodycam beelden zijn op de volgende manier toegestaan
 ## Artikel 37
 1. Het is verboden om jezelf of als organisatie te verkleding op uiterlijk van een overheidsmedewerker.
 2. Bij overtreding van deze regels zal er een straf uitgedeeld worden volgend de 2e catogorie.
+
+## Artikel 38
+1. Het is verboden als criminele organisatie om legale beroepen te beroven.
+2. Een voorbeeld hiervan is het beroven van mensen hun geld nadat zij als voorbeeld hun kip hebben verkocht op de verkoop locatie van dit specifieke beroep.
+3. Bij overtreding van deze regel zal een straf worden uitgedeeld volgens de 2e catogorie.
 
 
 ## Regels in het kort
