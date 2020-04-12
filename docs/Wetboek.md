@@ -154,6 +154,7 @@
 2. Bij een overtreding van de wet in lid 1 wordt de persoon gestraft volgens de 1e categorie en wordt het geld teruggegeven aan het slachtoffer.
 3. Contant geld volgens lid 1 is geld wat de persoon op dat moment op zak heeft.
 4. Naast contant geld, geldt lid 1 ook voor het verkopen van bezittingen.
+5. Hou hiermee wel rekening dat het bij het vergrijp zoals beschreven in lid 1 niet de bedoeling is hiermee misbruik te maken van onwetendheid van mensen, dus vermijdt nieuwe spelers met oplichten.
 
 ## Artikel 22
 
@@ -240,6 +241,9 @@ Bodycam beelden zijn op de volgende manier toegestaan
 2. Burgers kunnen alleen met hun telefoon filmen.
 2. De voertuigen van de overheids diensten zijn uitgerust met een 360 graden camera. 
 3. overige voertuigen zijn uitgerust met een dashcam gericht naar voren.
+
+## Artikel 36
+1. Wanneer een journalist bezig is met een opname of live is is het niet toegestaan deze te storen. Wanneer deze regel overtreden wordt zal dit resulteren in een ban tot de opname voorbij is en een straf volgens de 1e categorie.
 
 
 ## Regels in het kort
