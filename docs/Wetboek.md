@@ -151,7 +151,7 @@
 
 ## Artikel 21
 
-1. Er wordt geacht van spelers geen geld te stelen van andermans bank, dit mag alleen met contant en/of zwart geld.
+1. Er wordt geacht van spelers geen geld te stelen van andermans bank, dit mag alleen met contant en/of zwart geld tot maximaal €10.000,-.
 2. Bij een overtreding van de wet in lid 1 wordt de persoon gestraft volgens de 1e categorie en wordt het geld teruggegeven aan het slachtoffer.
 3. Contant geld volgens lid 1 is geld wat de persoon op dat moment op zak heeft.
 4. Naast contant geld, geldt lid 1 ook voor het verkopen van bezittingen.
