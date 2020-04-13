@@ -149,7 +149,7 @@
 
 1. Er wordt van spelers verwacht de Nederlandse taal te beheersen. Indien iemand de Nederlandse taal niet beheerst is deze persoon niet welkom op de server.
 
-# Artikel 21
+## Artikel 21
 
 1. Er wordt geacht van spelers geen geld te stelen van andermans bank, dit mag alleen met contant en/of zwart geld.
 2. Bij een overtreding van de wet in lid 1 wordt de persoon gestraft volgens de 1e categorie en wordt het geld teruggegeven aan het slachtoffer.
