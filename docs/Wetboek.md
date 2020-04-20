@@ -78,9 +78,10 @@
 
 ## Artikel 10
 
-1. Informatie verkregen buiten uw karakter om (alle informatie die niet verkregen is via porto’s en FiveM) mag niet gebruikt worden door uw karakter.
+1. Informatie verkregen buiten uw karakter om (alle informatie die niet verkregen door jouw karakter binnen FiveM) mag niet gebruikt worden door uw karakter.
 2. Het feit beschreven in lid 1 staat bekend als “meta-gaming”
 3. Indien de regel in lid 1 overtreden wordt wordt dit bestraft met een straf volgens de 1e categorie.
+4. Voor communicatie over lengte in game kun je een telefoon en/of portofoon gebruiken welke je in de telefoon winkel kunt kopen.
 
 ## Artikel 11
 
