@@ -6,7 +6,7 @@ Hier vind je bekende problemen en mogelijke oplossingen voor in de server.
 Dit is nartuurlijk een vervelend probleem echter is hier een oplossing voor. 
 
 1. Zorg er voor dat je in de [discord](discord.tdafivem.nl) zit en dat je de bruger rang hebt. Deze kan je krijgen door de regels goed te lezen en te accepteren. 
-2. Als je de rank in de burger hebt in discord en nog niet kan joinen kan een restart van je PC en het zorgen dat discord open staat en voor dat je fivem op start. Deze zal dan vervolgens vragen om toestemming om te koppelen met discord.
+2. Als je de rank burger hebt in discord en nog niet kan joinen kan een restart van je PC en het zorgen dat discord open staat en voor dat je fivem op start. Deze zal dan vervolgens vragen om toestemming om te koppelen met discord.
 
 ## Citybug
 
