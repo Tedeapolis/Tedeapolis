@@ -16,8 +16,12 @@
 |---|---| 
 | 1 | Mag zowel klasse 1 als klasse 2 wapen|
 | 2 | max 2x klasse 2 wapen |
-| 3 | max 1x klasse 2 wapen |
-| 4 | max 1x klasse 2 wapen |
-| 5 | max 0x klasse 2 wapen |
-| 6 | max 0x klasse 2 wapen |
-| 7 | max 0x klasse 2 wapen |
+| 3 | max 2x klasse 2 wapen |
+| 4 | max 2x klasse 2 wapen |
+| 5 | max 1x klasse 2 wapen |
+| 6 | max 1x klasse 2 wapen |
+| 7 | max 1x klasse 2 wapen |
+| 8 | max 0x klasse 2 wapen |
+| 9 | max 0x klasse 2 wapen |
+| 10 | max 0x klasse 2 wapen |
+| 11 | max 0x klasse 2 wapen |
