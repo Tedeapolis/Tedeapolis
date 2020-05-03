@@ -247,17 +247,25 @@ Bodycam beelden zijn op de volgende manier toegestaan
 3. overige voertuigen zijn uitgerust met een dashcam gericht naar voren.
 
 ## Artikel 36
+
 1. Wanneer een journalist bezig is met een opname of live is is het niet toegestaan deze te storen. Wanneer deze regel overtreden wordt zal dit resulteren in een ban tot de opname voorbij is en een straf volgens de 1e categorie.
 
 ## Artikel 37
+
 1. Het is verboden om jezelf of als organisatie te verkleding op uiterlijk van een overheidsmedewerker.
 2. Bij overtreding van deze regels zal er een straf uitgedeeld worden volgend de 2e catogorie.
 
 ## Artikel 38
+
 1. Het is verboden als criminele organisatie om legale beroepen te beroven.
 2. Een voorbeeld hiervan is het beroven van mensen hun geld nadat zij als voorbeeld hun kip hebben verkocht op de verkoop locatie van dit specifieke beroep.
 3. Bij overtreding van deze regel zal een straf worden uitgedeeld volgens de 2e catogorie.
 
+## Artikel 39
+
+1. Criminele organisaties mogen een maximaal leden aantal hebben van 11 personen. 
+2. Overtreding van het leden aantal genoemd in lid 1 zal een straf worden uitgedeeld volgens de 1e catogorie.
+3. Bij herhaalde overtreding zal er een straf van de 2e catogorie volgen.
 
 ## Regels in het kort
 
