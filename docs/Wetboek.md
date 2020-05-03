@@ -23,7 +23,7 @@
 ## Artikel 3
 
 1. De straffen zijn onderverdeeld in zes categorieën:
-	* Categorie 1: 1 cat. 1 waarschuwing (3 waarschuwingen in 1 maand is cat. 2)
+	* Categorie 1: 1 cat. 1 waarschuwing (max 3 waarschuwingen, de 4e waarschuwing wordt vervangen met een cat. 2)
 	* Categorie 2: een ban van maximaal 1 dag
 	* Categorie 3: een ban van maximaal 2 dag
 	* Categorie 4: een ban van maximaal 3 dagen
@@ -37,7 +37,7 @@
 
 3. Er kan door de hoge raad besloten worden (mits dit unaniem is) om straffen te verhogen op basis van de context, situatie of eerdere straffen/waarschuwingen van de overtreder in kwestie.
 4. Naast deze categorieën is het ook mogelijk kicks te geven als straf. Dit zal vooral als middel gebruikt worden om schade te voorkomen tot iemand met machtiging om te bannen aanwezig is, of om aandacht van een speler te krijgen.
-5. Bij een categorie 1 straf komt naast de waarschuwing ook een taakstraf van 50 uur voor de eerste keer, daarna 200, voor de 3e keer een celstraf van 2 uur. En hier na een categorie 2 straf.
+5. Bij een categorie 1 straf komt naast de waarschuwing ook een taakstraf van 50 taken.
 
 ## Artikel 4
 
