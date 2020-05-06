@@ -267,6 +267,13 @@ Bodycam beelden zijn op de volgende manier toegestaan
 2. Overtreding van het leden aantal genoemd in lid 1 zal een straf worden uitgedeeld volgens de 1e catogorie.
 3. Bij herhaalde overtreding zal er een straf van de 2e catogorie volgen.
 
+## Artikel 40
+
+1. Het is verboden voor een idividu om schade aan terichten aan een ander individu en dan zich te begeven naar een safe zone.
+2. Het is verboden om door middel van de safe-zone te ontkomen aan illegale activiteiten en/of roleplays. 
+3. Het feit genoemt in lid 1 en lid 2 wordt gezien als "FailRP".
+3. Dit zal gestraft worden met een straf van de eerste catogorie.
+
 ## Regels in het kort
 
 * Geen FailRP (Roleplay van zeer slechte kwaliteit, niet realistisch)
