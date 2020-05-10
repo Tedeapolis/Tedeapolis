@@ -18,6 +18,7 @@
 2. Bij een eerste overtreding kan er voor gekozen worden in plaats van een Schriftelijke waarschuwing (Categorie 1) een Mondelinge waarschuwing uit te delen. Hierbij wordt ook gecontroleerd of de persoon daadwerkelijk de regels heeft gelezen en deze begrijpt.
 3. Een mondelinge waarschuwing dient in een notitie bij deze persoon aangegeven te zijn, anders is deze niet geldig.
 4. Het omzeilen van een straf zal resulteren in een straf volgens categorie 7
+5. Bans worden uitgedeeld op basis van je GTA licentie, dus speel je op de GTA licentie van iemand anders en wordt je gebant, dan is de andere persoon met dezelfde licentie ook verbannen.
 
 
 ## Artikel 3
