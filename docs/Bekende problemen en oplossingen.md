@@ -8,6 +8,12 @@ Dit is nartuurlijk een vervelend probleem echter is hier een oplossing voor.
 1. Zorg er voor dat je in de [discord](discord.tdafivem.nl) zit en dat je de bruger rang hebt. Deze kan je krijgen door de regels goed te lezen en te accepteren. 
 2. Als je de rank burger hebt in discord en nog niet kan joinen kan een restart van je PC en het zorgen dat discord open staat en voor dat je fivem op start. Deze zal dan vervolgens vragen om toestemming om te koppelen met discord.
 
+## 1 toets doet meerdere dingen (kofferbak openen doet deur op slot)
+
+Hiervoor kun je je console openen (F8 toets) en type je hier: `unbind KEYBOARD {toets die voor problemen zorgt}` en hierna moet je je game opnieuw opstarten.
+
+Dus stel ik druk op L en mijn kofferbak gaat open en tegelijk gaat m'n voertuig op slot dan type ik dit in: `unbind KEYBOARD L` en hierna start ik mijn spel opnieuw op.
+
 ## Citybug
 
 Voor de "city bug" (door map heen vallen op hoge snelheden) probeer deze instellingen en let ook vooral op frame scaling en Texture Quality, deze zijn het allergelangrijkst om city bug te voorkomen.
