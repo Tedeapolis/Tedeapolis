@@ -8,6 +8,6 @@ Omdat dit niet voor iedereen even duidelijk hierbij een korte uitleg :smiley:
 
 Veel plezier met spelen en veel succes in je 2e leven!
 
-Als je de server niet kunt vinden in de server lijst klik je op Direct Connect en type je daar in tdafivem.nl:30120 en klik je op connect.
+Als je de server niet kunt vinden in de server lijst klik je op Direct Connect en type je daar in game.tdafivem.nl:30120 en klik je op connect.
 
-Als dit ook nog niet werkt kun je eventueel nog via F8 console intypen connect tdafivem.nl:30120
+Als dit ook nog niet werkt kun je eventueel nog via F8 console intypen connect game.tdafivem.nl:30120
