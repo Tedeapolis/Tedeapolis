@@ -8,6 +8,13 @@ Dit is nartuurlijk een vervelend probleem echter is hier een oplossing voor.
 1. Zorg er voor dat je in de [discord](discord.tdafivem.nl) zit en dat je de bruger rang hebt. Deze kan je krijgen door de regels goed te lezen en te accepteren. 
 2. Als je de rank burger hebt in discord en nog niet kan joinen kan een restart van je PC en het zorgen dat discord open staat en voor dat je fivem op start. Deze zal dan vervolgens vragen om toestemming om te koppelen met discord.
 
+## Bekende join messages waardoor je niet kunt joinen
+
+Hieronder staan de oplossingen voor deze problemen!
+
+1. No FiveM ticket was specified. If this is an offline server, mabye set sv_lan? : De oplossing is om je FiveM te restarten! Werkt dit niet? Restart dan je pc en dan kun je je FiveM weer opstarten!
+2. Requestinq authenticating ticket... blijft hangen. : Restart je FiveM duurt dit dan nog lang? Probeer dan je cache te legen! Mocht dit beide niet werken zul je je pc moeten herstarten!
+
 ## 1 toets doet meerdere dingen (kofferbak openen doet deur op slot)
 
 Hiervoor kun je je console openen (F8 toets) en type je hier: `unbind KEYBOARD {toets die voor problemen zorgt}` en hierna moet je je game opnieuw opstarten.
