@@ -92,7 +92,7 @@
 	* Politie
 	* Ambulance
 	* ANWB
-	* Krijgsmacht
+	* Staffkleding
 
 ## Artikel 12
 
