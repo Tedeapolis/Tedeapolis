@@ -276,7 +276,7 @@ Bodycam beelden zijn op de volgende manier toegestaan
 3. Het feit genoemt in lid 1 en lid 2 wordt gezien als "FailRP".
 3. Dit zal gestraft worden met een straf van de eerste catogorie.
 
-## Artiekel 41
+## Artikel 41
 
 1. Wanneer de leden in een server supported organisatie zodanig opvallen op een negatieve manier (bijvoorbeeld veel warnings), zal de Hoge Raad beslissen over een gepaste straf jegens deze organisatie. Bij criminele organisaties kan dit zelfs leiden tot een volledige opschorting van de groep.
 
