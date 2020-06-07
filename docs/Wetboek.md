@@ -309,7 +309,6 @@ Bodycam beelden zijn op de volgende manier toegestaan
 * Gebruikt /report om mensen te rapporteren die niet naar de regels luisteren. (Maakt de RP veel beter)
 * Bij het pakken van wapens anders dat Handgeweren (Pistolen) moet je Roleplayen dat je deze pakt en een tas op je rug dragen. (Voorbeeld: /me Pakt AK-47 uit tas ).
 * Niet ADVERTEREN met je eigen server/discord in de server zowel als op de discord.
-* Gebruik OOC chat (Out of character) voor dingen als vragen, gebruik het niet voor Roleplay.
 * Gebruik /Twt (twitter) voor in character berichten, dus juist voor Roleplay.
 * Het is verboden voertuigen van jobs te gebruiken voor criminaliteit denk hierbij aan bijvoorbeeld een vuilnis truck.
 * Buiten game communiceren is verboden dit mag alleen door overheidsdiensten gebruikt worden in porto kanalen of bij een vrijstelling
