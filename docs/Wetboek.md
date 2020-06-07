@@ -171,6 +171,7 @@
 7. Onder overheids objecten vallen voorwerpen zoals: medkits, repair kits, politie geweren, enzovoort.
 8. Een ambtenaar buiten dienst mag geen politie wapens bij zich dragen deze dienen ter alle tijden na een dienst opgeborgen te worden in de wapenkluis. Bij overtreding van dit lid zal er gestraft worden volgens de 1e catogorie.
 9. Op artikel 22 lid 8 geld een uitzondering voor zogenoemde dsi leden "dienst speciale interventies" deze leden mogen wel hun wapens buiten dienst behouden.
+10. Een uitzondering op deze lid 1 is de politie bij deze is het niet toegestaan in en buiten dienst
 
 ## Artikel 23
 
