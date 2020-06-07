@@ -280,6 +280,10 @@ Bodycam beelden zijn op de volgende manier toegestaan
 
 1. Wanneer de leden in een server supported organisatie zodanig opvallen op een negatieve manier (bijvoorbeeld veel warnings), zal de Hoge Raad beslissen over een gepaste straf jegens deze organisatie. Bij criminele organisaties kan dit zelfs leiden tot een volledige opschorting van de groep.
 
+## Artikel 42
+
+1. Het is verboden om gezichts bedenkende kleding te dragen in het openbaar.
+
 ## Regels in het kort
 
 * Geen FailRP (Roleplay van zeer slechte kwaliteit, niet realistisch)
