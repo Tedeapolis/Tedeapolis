@@ -202,7 +202,8 @@
 ## Artikel 28
 
 1. Het is verboden alt accounts aan te maken met de intentie het start bedrag over te schrijven naar het account waar normaal op gespeeld wordt.
-2. Indien de regel zoals beschreven in lid 1 overtreden wordt zal dit bestraft worden met een straf volgens de 5e categorie, hiernaast zullen alle accounts volledig verwijderd worden.
+2. Hiernaast is het ook verboden om meer dan 3 alts aan te maken. Het aanmaken van meer dan 3 alts zal resulteren in het verwijderen van alle 3 de accounts. Wanneer er geld overgezet is zal hiernaast ook de straf zoals beschreven in lid 3 gegeven worden.
+3. Indien de regel zoals beschreven in lid 1 overtreden wordt zal dit bestraft worden met een straf volgens de 7e categorie, hiernaast zullen alle accounts volledig verwijderd worden.
 
 ## Artikel 29
 
