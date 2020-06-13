@@ -153,11 +153,11 @@
 
 ## Artikel 21
 
-1. Er wordt geacht van spelers geen geld te stelen van andermans bank, dit mag alleen met contant geld en zwart geld wanneer mensen met criminele activiteiten bezig zijn.
-2. Met criminele activiteiten zoals vermeldt in lid 1 worden dingen met betrekking tot drugs, overvallen, witwassen etc bedoelt, dus niet dingen als verkeers overtredingen.
-3. Bij een overtreding van de wet in lid 1 wordt de persoon gestraft volgens de 1e categorie en wordt het geld teruggegeven aan het slachtoffer.
-4. Contant geld volgens lid 1 is geld wat de persoon op dat moment op zak heeft.
-5. Naast contant geld, geldt lid 1 ook voor het verkopen van bezittingen.
+1. Het overvallen/oplichten van mensen is verboden, dit mag alleen wanneer een persoon bezig is met criminele activiteiten.
+2. Het is geen enkele situatie toegestaan om geld van mensen hun bank te stelen.
+3. Met criminele activiteiten zoals vermeldt in lid 1 worden dingen met betrekking tot drugs, overvallen, witwassen etc bedoelt, dus niet dingen als verkeers overtredingen, dit betekent dus ook dat het overvallen van mensen die bijvoorbeeld met kippen slachten bezig zijn niet toegestaan is.
+4. Bij een overtreding van de wet in lid 1 wordt de persoon gestraft volgens de 1e categorie en wordt het geld teruggegeven aan het slachtoffer.
+5. Contant geld volgens lid 1 is geld wat de persoon op dat moment op zak heeft.
 6. Hou hiermee wel rekening dat het bij het vergrijp zoals beschreven in lid 1 niet de bedoeling is hiermee misbruik te maken van onwetendheid van mensen, dus vermijdt nieuwe spelers met oplichten.
 
 ## Artikel 22
@@ -258,12 +258,6 @@ Bodycam beelden zijn op de volgende manier toegestaan
 
 1. Het is verboden om jezelf of als organisatie te verkleding op uiterlijk van een overheidsmedewerker.
 2. Bij overtreding van deze regels zal er een straf uitgedeeld worden volgend de 2e catogorie.
-
-## Artikel 38
-
-1. Het is verboden als criminele organisatie om legale beroepen te beroven.
-2. Een voorbeeld hiervan is het beroven van mensen hun geld nadat zij als voorbeeld hun kip hebben verkocht op de verkoop locatie van dit specifieke beroep.
-3. Bij overtreding van deze regel zal een straf worden uitgedeeld volgens de 2e catogorie.
 
 ## Artikel 39
 
