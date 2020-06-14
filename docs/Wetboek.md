@@ -199,6 +199,7 @@
 
 1. Er wordt geacht van mensen geen gebruik te maken van baan voertuigen voor illegale bezigheden.
 2. Hij die de regel zoals beschreven in lid 1 overtreed zal bestraft worden met een straf volgens de 1e categorie, hiernaast zal de overtreder ontslagen worden.
+3. Er wordt geacht dat er voor het uitvoeren van je baan het voerthuig wordt gerbruikt dat is verstrekt door de baas.
 
 ## Artikel 28
 
