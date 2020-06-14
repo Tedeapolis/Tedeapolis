@@ -86,9 +86,10 @@
 
 ## Artikel 11
 
-1. Hij die als niet ambtenaar kleding draagt van één van de overheids banen zal gestraft worden met een straf volgens de 2e categorie.
-2. Indien dit de eerste keer is dat de overtreder van lid 1 deze overtreding begaat zal er een mondelinge waarschuwing gegeven worden, in plaats van een categorie 2 straf.
-3. Onder ambtenaar vallen de mensen in dienst bij één van de volgende instanties:
+1. Er wordt geacht dat de kleding wordt gedragen die is verstrekt door de baas voor het uitvoeren van het beroep. Wordt dit niet gedaan, zal er gestraft worden met een straf volgens de 2e categorie.
+2. Hij die als niet ambtenaar kleding draagt van één van de overheids banen zal gestraft worden met een straf volgens de 2e categorie.
+3. Indien dit de eerste keer is dat de overtreder van lid 1 of 2 deze overtreding begaat zal er een mondelinge waarschuwing gegeven worden, in plaats van een categorie 2 straf.
+4. Onder ambtenaar vallen de mensen in dienst bij één van de volgende instanties:
 	* Politie
 	* Ambulance
 	* ANWB
