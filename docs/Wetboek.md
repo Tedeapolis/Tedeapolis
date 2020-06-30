@@ -180,6 +180,8 @@
 
 1. Er wordt van mensen verwacht gebruik te maken van “/report” om overtredingen van regels te melden. Dit zodat de overtreder hiervan niet op de hoogte is en de eventuele roleplay hierdoor niet beïnvloed wordt.
 2. Bij een overtreding van de regel genoemd in lid 1 zal de persoon erop gewezen worden volgende keer gelieve “/report” te gebruiken of een ticket aan te maken in de TDA Discord.
+3. Het is als je een report maakt niet de bedoeling om dit in game te melden aan mensen en ook niet wanneer staff er is, wij kiezen zelf ons moment om aan te geven dat we aanwezig zijn en doen dit pas wanneer wij vinden dat we genoeg hebben gezien. Als je dus aangeeft dat je een report hebt gemaakt of wij meekijken zorgt dit er meestal voor dat er geen straffen door ons kunnen worden uitgedeeld.
+4. Het overtreden van lid 3 zal resulteren in een straf volgens de 2e categorie (1 dag ban).
 
 ## Artikel 24
 
