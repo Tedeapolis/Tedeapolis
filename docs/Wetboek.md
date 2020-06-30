@@ -83,6 +83,8 @@
 2. Het feit beschreven in lid 1 staat bekend als “meta-gaming”
 3. Indien de regel in lid 1 overtreden wordt wordt dit bestraft met een straf volgens de 1e categorie.
 4. Voor communicatie over lengte in game kun je een telefoon en/of portofoon gebruiken welke je in de telefoon winkel kunt kopen.
+5. Bij het gebuik van een portofoon systeem in welke form dan ook dient de persoon die praat ook ingame te horen te zijn.
+6. Het feit beschreven in lid 5 staat bekend als "meta-gaing" en zal worden bestarft worden met een 1e catogrie straf
 
 ## Artikel 11
 
