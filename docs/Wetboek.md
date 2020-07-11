@@ -75,7 +75,8 @@
 ## Artikel 9
 
 1. Hij die moedwillig Roleplays van andere spelers verstoord zal gestraft worden met een straf volgens de 1e categorie.
-2. Indien de overtreder na de straf genoemd in lid 1 nog niet ophoudt met het verstorend gedrag kan er gekozen worden de overtreder te bestraffen volgens categorie 2.
+2. Als je voertuigen achterlaat op verwijder cirkels of andere cirkels blokkeert met je voertuig dan wordt dit ook gezien als roleplay verstorend gedrag.
+3. Indien de overtreder na de straf genoemd in lid 1 nog niet ophoudt met het verstorend gedrag kan er gekozen worden de overtreder te bestraffen volgens categorie 2.
 
 ## Artikel 10
 
