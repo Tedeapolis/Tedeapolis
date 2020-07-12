@@ -36,7 +36,7 @@
 
 	Dit om eventuele verdere schade te beperken terwijl er gekeken wordt wat er precies gebeurt is.
 
-3. Er kan door de hoge raad besloten worden (mits dit unaniem is) om straffen te verhogen op basis van de context, situatie of eerdere straffen/waarschuwingen van de overtreder in kwestie.
+3. Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlagen op basis van de context, situatie of eerdere straffen/waarschuwingen van de overtreder in kwestie. Wanneer je het niet eens bent met een oordeel van een stafflid kan je hiervoor een ticket aanmaken.
 4. Naast deze categorieën is het ook mogelijk kicks te geven als straf. Dit zal vooral als middel gebruikt worden om schade te voorkomen tot iemand met machtiging om te bannen aanwezig is, of om aandacht van een speler te krijgen.
 5. Bij een categorie 1 straf komt naast de waarschuwing ook een taakstraf van 50 taken.
 
@@ -75,7 +75,8 @@
 ## Artikel 9
 
 1. Hij die moedwillig Roleplays van andere spelers verstoord zal gestraft worden met een straf volgens de 1e categorie.
-2. Indien de overtreder na de straf genoemd in lid 1 nog niet ophoudt met het verstorend gedrag kan er gekozen worden de overtreder te bestraffen volgens categorie 2.
+2. Als je voertuigen achterlaat op verwijder cirkels of andere cirkels blokkeert met je voertuig dan wordt dit ook gezien als roleplay verstorend gedrag.
+3. Indien de overtreder na de straf genoemd in lid 1 nog niet ophoudt met het verstorend gedrag kan er gekozen worden de overtreder te bestraffen volgens categorie 2.
 
 ## Artikel 10
 
@@ -120,7 +121,7 @@
 ## Artikel 15
 
 1. Hij die scheld met hedendaags relevante ziektes (kanker en dergelijke) of met racistische opmerkingen, of andere ongepaste opmerkingen, wordt gestraft met een straf volgens de 3e categorie.
-2. Bij een eerste keer wordt er een Mondelinge waarschuwing gegeven in plaats van een straf volgens de 3e categorie.
+2. Bij een eerste overtreding kan ervoor gekozen worden een mondelinge waarschuwing te geven mits de context dit toestaat.
 3. Bij herhaalde overtredingen van lid 1 wordt de straf direct verhoogd naar de 6e categorie.
 
 ## Artikel 16
@@ -135,7 +136,7 @@
 1. Hij die geen waarde hecht aan het leven van zijn karakter zal gestraft worden zal gestraft worden met een straf volgens de 1e categorie.
 2. De overtreding zoals beschreven in lid 1 staat bekend als “no value of life”
 3. Enkele voorbeelden hiervoor zijn:
-	* zodra iemand een pistool op je richt binnen 50 meter en er geen beschutting is, blijf je staan en val je deze persoon niet aan. Binnen 25 meter kun je de persoon echter wel proberen aan te vallen. Aangezien anders de kans dat je neergeschoten wordt dusdanig groot is dat er vanuit kan worden gegaan dat je geen rekening houdt met je eigen leven.
+	* zodra iemand een pistool op je richt binnen 50 meter en er geen beschutting is, blijf je staan en val je deze persoon niet aan. Binnen 10 meter kun je de persoon echter wel proberen aan te vallen. Aangezien anders de kans dat je neergeschoten wordt dusdanig groot is dat er vanuit kan worden gegaan dat je geen rekening houdt met je eigen leven.
 	* Zodra iemand een mes trekt binnen 10 meter van je werk je mee, doe je dit niet ben je niet zuinig met je leven aangezien je dat bewust het risico neemt neergestoken te worden.
 	* Elke andere vorm waarmee je bewust je eigen leven in een té groot gevaar brengt valt onder no value of life, echter zullen andere situaties minder hard gelden dan de bovengenoemde situaties. Dus gebruik je gezonde verstand om de situatie in te schatten.
 
@@ -143,7 +144,6 @@
 
 1. Indien uw karakter dood is gegaan wordt er verwacht dat hij de laatste roleplay vergeten is.
 2. Bij een overtreding van de regel in lid 1 wordt de overtreder bestraft volgens artikel 10 lid 3.
-3. Wanneer er schulden zijn gemaakt in de roleplay die vergeten dient te worden, zal uw karakter deze schulden wel onthouden. Bij deze schulden bestaat echter geen context meer, dus de karakter weet niet meer waarom of hoe de schulden gemaakt zijn.
 
 ## Artikel 19
 
