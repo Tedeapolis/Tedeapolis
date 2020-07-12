@@ -48,7 +48,7 @@
 
 ## Artikel 5
 
-1. Hij die op iemand inrijdt met de intentie deze persoon te vermoorden zal gestraft worden volgens de 1e categorie.
+1. Hij die op iemand inrijdt met de intentie deze persoon te vermoorden of zijn voertuig bewust als wapen gebruikt, zal gestraft worden volgens de 1e categorie.
 2. De overtreding vermeld in het eerste lid staat bekend als “VDM”
 3. Als een slachtoffer moedwillig aan wordt gereden door een dader die boven de 30 km/u rijdt zal er vanuit gegaan worden dat de dader de intentie heeft om het slachtoffer te vermoorden. Dit betekent echter niet dat alles onder de 30 km/u niet met de intentie om te vermoorden is en dit kan alsnog bestraft worden indien dit overduidelijk is met de intentie om iemand te vermoorden.
 
