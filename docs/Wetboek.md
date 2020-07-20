@@ -286,6 +286,11 @@ Bodycam beelden zijn op de volgende manier toegestaan
 
 1. Het is verboden om gezichts bedenkende kleding te dragen in het openbaar.
 
+## Artikel 43
+
+1. Het is niet toegestaan om een speler te herkennen aan zijn/haar stem als deze zig zodanig heeft gekleed dat hij/zij op uitelijk onherkenbaar is.
+2. Het overtreden van het feit beschreven in lid 1 zal worden gestraft met een straff van de eerste categorie. 
+
 ## Regels in het kort
 
 * Geen FailRP (Roleplay van zeer slechte kwaliteit, niet realistisch)
