@@ -111,7 +111,7 @@
 
 ## Artikel 14
 
-1. Hij die tijdens een roleplay moedwillig de game verlaat zonder een geldige reden, en niet binnen een periode van 5 minuten terug is, zal bestraft worden met een straf volgens de 2e categorie.
+1. Hij die tijdens een roleplay moedwillig de game verlaat zonder een geldige reden, en niet binnen een periode van 5 minuten terug is, zal bestraft worden met een straf volgens de 5e categorie.
 2. Het is de bedoeling als men de game wil verlaten tijdens een roleplay er voor te zorgen dat de mensen die deelnemen aan de roleplay hiervan op de hoogte zijn. Probeer het eerst in voice mee te delen, dan met een “/me” bericht
 3. Nadat de persoon die de roleplay verlaten heeft weer is ingelogd wordt er van deze persoon verwacht de roleplay zo snel mogelijk te hervatten.
 4. Onder de overtreding van lid 1 valt ook het vermijden van een roleplay d.m.v. het gebruik van glitches. Val je bijvoorbeeld door de map na het inloggen terwijl je in de cel zit bij het politiebureau wordt er van je geacht je per direct weer te melden op het politiebureau.
@@ -236,7 +236,7 @@
 ## Artikel 33
 
 1. Het is niet toegestaan een melding te maken naar een overheids instantie met de intentie om degene die hierop reageert te vermoorden en/of te ontvoeren.
-2. Er moeten ten allen tijden twee overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoert is, dus als er 5 agenten aanwezig zijn mag er 1 ontvoert worden, als er 2 aanwezig zijn mag er geen ontvoert worden.
+2. Er moeten ten allen tijden vijf overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoert is, dus als er 6 agenten aanwezig zijn mag er 1 ontvoert worden, als er 2 aanwezig zijn mag er geen ontvoert worden.
 3. Met betrekking tot de regel in lid 1 is het aan te raden om nooit valse meldingen te maken. Dit kan eventueel ook bestraft worden volgens artikel 12.
 4. Indien de regel beschreven in lid 1 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
 
