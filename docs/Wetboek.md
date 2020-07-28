@@ -291,6 +291,10 @@ Bodycam beelden zijn op de volgende manier toegestaan
 1. Het is niet toegestaan om een speler te herkennen aan zijn/haar stem als deze zig zodanig heeft gekleed dat hij/zij op uitelijk onherkenbaar is.
 2. Het overtreden van het feit beschreven in lid 1 zal worden gestraft met een straff van de eerste categorie. 
 
+## Artikel 44
+
+1. Streamsnipen is ten strengste verboden. Ga jij spelers in game opzoeken aan de hand van iemand zijn/haar stream, of informatie gebruiken die jij uit zijn/haar stream haalt, zal dit bestraft worden volgens de 5e categorie.
+
 ## Regels in het kort
 
 * Geen FailRP (Roleplay van zeer slechte kwaliteit, niet realistisch)
