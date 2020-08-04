@@ -267,7 +267,7 @@ Bodycam beelden zijn op de volgende manier toegestaan
 
 ## Artikel 39
 
-1. Criminele organisaties mogen een maximaal leden aantal hebben van 11 personen. 
+1. Criminele organisaties mogen een maximaal leden aantal hebben van 15 personen. 
 2. Overtreding van het leden aantal genoemd in lid 1 zal een straf worden uitgedeeld volgens de 1e catogorie.
 3. Bij herhaalde overtreding zal er een straf van de 2e catogorie volgen.
 
