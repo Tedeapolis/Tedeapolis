@@ -6,7 +6,6 @@
 2. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt.
 3. Indien er tegen staff gelogen wordt en dit met hard bewijs bewezen wordt, door bijvoorbeeld logbestanden, kan er gekozen worden de straf te verzwaren.
 
-
 ## Artikel 2
 
 1. De straffen zijn:
@@ -20,7 +19,6 @@
 4. Het omzeilen van een straf zal resulteren in een straf volgens categorie 7
 5. Bans worden uitgedeeld op basis van je GTA licentie, dus speel je op de GTA licentie van iemand anders en wordt je gebant, dan is de andere persoon met dezelfde licentie ook verbannen.
 
-
 ## Artikel 3
 
 1. De straffen zijn onderverdeeld in zes categorieën:
@@ -32,9 +30,8 @@
 	* Categorie 6: een ban van maximaal 1 maand
 	* Categorie 7: permanente ban
 
-2. De straffen van categorie 5, 6 en 7 worden preventief uitgedeeld, dus bij betrapping van een dergelijke overtreding wordt de straf per direct uitgevoerd. Deze straf zal naderhand besproken worden binnen de Hoge Raad en waar toepasselijk ondervonden aangepast.
-
-	Dit om eventuele verdere schade te beperken terwijl er gekeken wordt wat er precies gebeurt is.
+2. De straffen van categorie 5, 6 en 7 worden preventief uitgedeeld, dus bij betrapping van een dergelijke overtreding wordt de straf per direct uitgevoerd. Deze straf zal naderhand besproken worden binnen de Hoge Raad en waar toepasselijk ondervonden aangepast. 
+Dit om eventuele verdere schade te beperken terwijl er gekeken wordt wat er precies gebeurt is.
 
 3. Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlagen op basis van de context, situatie of eerdere straffen/waarschuwingen van de overtreder in kwestie. Wanneer je het niet eens bent met een oordeel van een stafflid kan je hiervoor een ticket aanmaken.
 4. Naast deze categorieën is het ook mogelijk kicks te geven als straf. Dit zal vooral als middel gebruikt worden om schade te voorkomen tot iemand met machtiging om te bannen aanwezig is, of om aandacht van een speler te krijgen.
@@ -44,7 +41,6 @@
 
 1. Hij die opzettelijk een roleplay van zeer slechte kwaliteit uitspeelt wordt gestraft volgens de 1e categorie.
 2. De overtreding vermeld in het eerste lid staat bekend als “FailRP”
-
 
 ## Artikel 5
 
@@ -115,9 +111,8 @@
 2. Het is de bedoeling als men de game wil verlaten tijdens een roleplay er voor te zorgen dat de mensen die deelnemen aan de roleplay hiervan op de hoogte zijn. Probeer het eerst in voice mee te delen, dan met een “/me” bericht
 3. Nadat de persoon die de roleplay verlaten heeft weer is ingelogd wordt er van deze persoon verwacht de roleplay zo snel mogelijk te hervatten.
 4. Onder de overtreding van lid 1 valt ook het vermijden van een roleplay d.m.v. het gebruik van glitches. Val je bijvoorbeeld door de map na het inloggen terwijl je in de cel zit bij het politiebureau wordt er van je geacht je per direct weer te melden op het politiebureau.
-5. De periode van 5 minuten, zoals benoemd in lid 1, is bedoeld om een persoon de mogelijkheid te bieden z’n situatie uit te leggen of weer bij zinnen te komen.
-6. Wanneer je niet meer kunt inloggen door overmacht (internet wat eruit ligt, boze ouders, etc.) dan is het verplicht dit assertief, dus uit eigen initiatief, te melden ergens in de Discord. Indien dit niet wordt gedaan dan geld het alsnog als combat logging volgens lid 1.
-7. De overtreding beschreven in lid 1 staat bekend als “Combat Logging”
+5. De periode van 5 minuten, zoals benoemd in lid 1, is bedoeld om een persoon de mogelijkheid te bieden z’n situatie uit te leggen of weer bij zinnen te komen, het is niet de bedoeling hier misbruik van te maken, indien hier misbruik van gemaakt wordt zal er alsnog een straf volgens lid 1 gegeven worden.
+6. De overtreding beschreven in lid 1 staat bekend als “Combat Logging”
 
 ## Artikel 15
 
@@ -228,7 +223,6 @@
 2. Wanneer de regel zoals in lid 1 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
 3. De regel van lid 1 is niet van toepassing indien een persoon minder dan 5 minuten geleden de server verlaten is. Dus bij bijvoorbeeld een crash.
 
-
 ## Artikel 32
 
 1. Het is nadat iemand van het leven beroofd is door een rivaliserende groep, gedurende 24 uur niet toegestaan mee te doen aan eventuele wraakacties tegen deze groep.
@@ -254,8 +248,8 @@ Bodycam beelden zijn op de volgende manier toegestaan
 
 1. Overheids diensten zijn uitgerust met bodycams.
 2. Burgers kunnen alleen met hun telefoon filmen.
-2. De voertuigen van de overheids diensten zijn uitgerust met een 360 graden camera. 
-3. overige voertuigen zijn uitgerust met een dashcam gericht naar voren.
+3. De voertuigen van de overheids diensten zijn uitgerust met een 360 graden camera.
+4. overige voertuigen zijn uitgerust met een dashcam gericht naar voren.
 
 ## Artikel 36
 
@@ -268,16 +262,16 @@ Bodycam beelden zijn op de volgende manier toegestaan
 
 ## Artikel 39
 
-1. Criminele organisaties mogen een maximaal leden aantal hebben van 15 personen. 
+1. Criminele organisaties mogen een maximaal leden aantal hebben van 15 personen.
 2. Overtreding van het leden aantal genoemd in lid 1 zal een straf worden uitgedeeld volgens de 1e catogorie.
 3. Bij herhaalde overtreding zal er een straf van de 2e catogorie volgen.
 
 ## Artikel 40
 
 1. Het is verboden voor een idividu om schade aan terichten aan een ander individu en dan zich te begeven naar een safe zone.
-2. Het is verboden om door middel van de safe-zone te ontkomen aan illegale activiteiten en/of roleplays. 
+2. Het is verboden om door middel van de safe-zone te ontkomen aan illegale activiteiten en/of roleplays.
 3. Het feit genoemt in lid 1 en lid 2 wordt gezien als "FailRP".
-3. Dit zal gestraft worden met een straf van de eerste catogorie.
+4. Dit zal gestraft worden met een straf van de eerste catogorie.
 
 ## Artikel 41
 
@@ -290,7 +284,7 @@ Bodycam beelden zijn op de volgende manier toegestaan
 ## Artikel 43
 
 1. Het is niet toegestaan om een speler te herkennen aan zijn/haar stem als deze zig zodanig heeft gekleed dat hij/zij op uitelijk onherkenbaar is.
-2. Het overtreden van het feit beschreven in lid 1 zal worden gestraft met een straff van de eerste categorie. 
+2. Het overtreden van het feit beschreven in lid 1 zal worden gestraft met een straff van de eerste categorie.
 
 ## Artikel 44
 
