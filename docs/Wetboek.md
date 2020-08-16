@@ -295,6 +295,11 @@ Bodycam beelden zijn op de volgende manier toegestaan
 
 1. Streamsnipen is ten strengste verboden. Ga jij spelers in game opzoeken aan de hand van iemand zijn/haar stream, of informatie gebruiken die jij uit zijn/haar stream haalt, zal dit bestraft worden volgens de 5e categorie.
 
+## Artikel 45
+
+1. Het is niet toegestaan om externe discords te gebruiken voor gangs of andere zaken, die niet gemaakt zijn door staff.
+2. Het overtreden van het feit genoemt in lid 1 zal resulteren in een straf vam de 1e categorie.
+
 ## Regels in het kort
 
 * Geen FailRP (Roleplay van zeer slechte kwaliteit, niet realistisch)
