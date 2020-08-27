@@ -312,6 +312,10 @@ Het overtreden van het feit beschreven in lid 1 zal worden gestraft met een stra
 1. Het is niet toegestaan om externe discords te gebruiken voor gangs of andere zaken, die niet gemaakt zijn door staff.
 Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van de 1e categorie.
 
+### Artikel 42 - Zelfdoding
+
+1. Bij een zelfmoord scenario moet de persoon in kwestie een account wipe krijgen en verplicht voor zijn nieuwe karakter een biografie schrijven. Mocht de persoon dit puur voor aandacht doen en niet uiteindelijk zijn/haar leven beëindigen, zal deze voor 200 uur naar de gevangenis gestuurd worden in isolatie.
+
 ## Slotbepaling: Regels in het kort
 
 * Geen FailRP (Roleplay van zeer slechte kwaliteit, niet realistisch)
