@@ -8,7 +8,7 @@
 | Officiële naam regeling   | Algemene Plaatselijke Verordening Tedeapolis 2020 |
 | Citeertitel               | Algemene Plaatselijke Verordening Tedeapolis|
 | Vastgesteld door          | De Hoge Raad|
-| Onderwerp                 | Openbare orde en veiligheid|
+| Onderwerp                 | Openbare orde en veiligheid| 
 
 ### Opmerkingen met betrekking tot de verordening
 
@@ -311,6 +311,9 @@ Het overtreden van het feit beschreven in lid 1 zal worden gestraft met een stra
 
 1. Het is niet toegestaan om externe discords te gebruiken voor gangs of andere zaken, die niet gemaakt zijn door staff.
 Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van de 1e categorie.
+
+### Artikel 42 - Zelfdoding
+1. Bij een zelfmoord scenario moet de persoon in kwestie een account wipe krijgen en verplicht voor zijn nieuwe karakter een biografie schrijven. Mocht de persoon dit puur voor aandacht doen en niet uiteindelijk zijn/haar leven beëindigen, zal deze voor 200 uur naar de gevangenis gestuurd worden in isolatie.
 
 ## Slotbepaling: Regels in het kort
 
