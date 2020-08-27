@@ -8,7 +8,7 @@
 | Officiële naam regeling   | Algemene Plaatselijke Verordening Tedeapolis 2020 |
 | Citeertitel               | Algemene Plaatselijke Verordening Tedeapolis|
 | Vastgesteld door          | De Hoge Raad|
-| Onderwerp                 | Openbare orde en veiligheid|
+| Onderwerp                 | Openbare orde en veiligheid| 
 
 ### Opmerkingen met betrekking tot de verordening
 
