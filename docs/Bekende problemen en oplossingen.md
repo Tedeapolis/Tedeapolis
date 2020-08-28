@@ -1,18 +1,19 @@
-# Bekende problemen en fixxes
+# Bekende problemen en fixes
+
 Hier vind je bekende problemen en mogelijke oplossingen voor in de server.
 
 ## Het niet kunnen joinen van de server
 
-Dit is nartuurlijk een vervelend probleem echter is hier een oplossing voor. 
+Dit is nartuurlijk een vervelend probleem echter is hier een oplossing voor.
 
-1. Zorg er voor dat je in de [discord](discord.tdafivem.nl) zit en dat je de bruger rang hebt. Deze kan je krijgen door de regels goed te lezen en te accepteren. 
+1. Zorg er voor dat je in de [discord](discord.tdafivem.nl) zit en dat je de burger rang hebt. Deze kan je krijgen door de regels goed te lezen en te accepteren.
 2. Als je de rank burger hebt in discord en nog niet kan joinen kan een restart van je PC en het zorgen dat discord open staat en voor dat je fivem op start. Deze zal dan vervolgens vragen om toestemming om te koppelen met discord.
 
 ## Bekende join messages waardoor je niet kunt joinen
 
 Hieronder staan de oplossingen voor deze problemen!
 
-1. No FiveM ticket was specified. If this is an offline server, mabye set sv_lan? : De oplossing is om je FiveM te restarten! Werkt dit niet? Restart dan je pc en dan kun je je FiveM weer opstarten!
+1. No FiveM ticket was specified. If this is an offline server, maybe set sv_lan? : De oplossing is om je FiveM te restarten! Werkt dit niet? Restart dan je pc en dan kun je je FiveM weer opstarten!
 2. Requestinq authenticating ticket... blijft hangen. : Restart je FiveM duurt dit dan nog lang? Probeer dan je cache te legen! Mocht dit beide niet werken zul je je pc moeten herstarten!
 
 ## 1 toets doet meerdere dingen (kofferbak openen doet deur op slot)
@@ -34,7 +35,6 @@ Zorg er verder voor dat je C schijf niet tjok vol is, dus zorg ervoor dat je Win
 ## Upgrades LS Costums die niet werken
 
 Als je upgrades niet ziet in LS Customs, ga eerst even terug, wacht een paar seconden e probeer het opnieuw, werken ze dan nog steeds niet geef dan even het model van de auto door.
-
 
 ## Problemen met UI
 

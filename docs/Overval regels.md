@@ -13,7 +13,7 @@
 10. Je mag bij een overval de volgende wapens gebruiken met het volgende aantal personen. Alles naast een pistool of melee wapen geldt als een klasse 2 wapen. We duiden het met klasse 1 en klasse 2 aan, onder klasse 1 vallen dus pistolen en melee en de rest valt onder klasse 2.
 
 | Persoon(en) | Regel |
-|---|---| 
+|---|---|
 | 1 | Mag zowel klasse 1 als klasse 2 wapen|
 | 2 | max 2x klasse 2 wapen |
 | 3 | max 2x klasse 2 wapen |

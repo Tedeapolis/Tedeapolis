@@ -1,5 +1,7 @@
 # Tutorials
+
 ## Log bestanden
+
 De logs bestanden van FiveM bevinden zich in de map: %localappdata%\FiveM\fivem.app\logs
 
 Om hier te komen doe je eerst Windows Toets + R, in dit dialoog plak je de bovenstaande tekst, zodat je hetzelfde krijgt als de volgende afbeelding:
