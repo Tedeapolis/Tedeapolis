@@ -38,6 +38,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
     * Categorie 5: een ban van maximaal 1 week
     * Categorie 6: een ban van maximaal 1 maand
     * Categorie 7: permanente ban
+    * Categorie 8: account wipe
 
 2. De straffen van categorie 5, 6 en 7 kunnen preventief worden uitgedeeld wanneer sprake is van een overtreding op heterdaad. De opgelegde straf zal naderhand besproken worden binnen de Hoge Raad en waar nodig worden bijgesteld. Dit om eventuele verdere schade te beperken terwijl er gekeken wordt wat er precies gebeurt is.
 
