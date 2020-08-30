@@ -316,6 +316,20 @@ Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van de 
 
 1. Bij een zelfmoord scenario moet de persoon in kwestie een account wipe krijgen en verplicht voor zijn nieuwe karakter een biografie schrijven. Mocht de persoon dit puur voor aandacht doen en niet uiteindelijk zijn/haar leven beëindigen, zal deze voor 200 uur naar de gevangenis gestuurd worden in isolatie.
 
+### Artikel 43 - Voertuigbelasting
+
+1. Voertuigbelasting wordt geheven op auto's in privé-eigendom van inwoners.
+2. Een uitzondering wordt gevormd voor de eerste twee voertuigen in bezit. Deze zijn vrij van belasting. 
+3. Voorts wordt de volgende belasting, dagelijks, automatisch, en om middernacht geheven:
+   * bij 3 auto's: 120 euro per dag
+   * bij 4 auto's: 420 euro per dag
+   * bij 8 auto's:  2190 euro per dag
+   * bij 10 auto's: 3390 euro per dag
+   * bij 20 auto's: 11.445 euro per dag
+   * bij 30 auto's: 22.215 euro per dag
+   * bij 40 auto's: 35.130 euro per dag
+   * bij 50 auto's: 49.875 euro per dag
+
 ## Slotbepaling: Regels in het kort
 
 * Geen FailRP (Roleplay van zeer slechte kwaliteit, niet realistisch)
