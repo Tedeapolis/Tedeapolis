@@ -231,7 +231,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 ### Artikel 28 - Criminaliteit & Ambtenaren
 
-1. Voor een ambtenaar in functie is het niet toegestaan zich bezig te houden met illegale bezigheden. Dit mag echter wel wanneer de persoon buiten dienst is (uitgezonderd leden van de Politie).
+1. Voor een ambtenaar in functie is het niet toegestaan zich bezig te houden met illegale bezigheden. Dit mag echter wel wanneer de persoon buiten dienst is (uitgezonderd leden van de Politie en de Koninklijke marechaussee).
 2. U bent als ambtenaar in functie als u niet buiten dienst bent.
 3. Indien een persoon de regel zoals beschreven in lid 1 overtreed wordt deze bestraft met een straf volgens categorie 1 en zal deze persoon ontslagen worden.
 4. Verder is het niet toegestaan om door de politie in beslag genomen objecten door te handelen naar spelers. Ditzelfde is ook van toepassing op alle andere overheids objecten.
