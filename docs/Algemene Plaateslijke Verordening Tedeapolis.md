@@ -195,8 +195,9 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 1. Het is verboden voor een individu om schade aan te richten aan een ander individu en zich daarna te begeven naar een safe zone.
 2. Het is verboden om door middel van de safe-zone te ontkomen aan illegale activiteiten en/of roleplays.
-3. Het feit genoemd in lid 1 en lid 2 wordt gezien als "FailRP".
-4. Dit zal gestraft worden met een straf van de eerste categorie.
+3. Het is verboden om een individu schade aan te richten, te ontvoeren, overvallen, aanrijden of vermoorden in een safezone
+4. Het feit genoemd in lid 1 en lid 2 wordt gezien als "FailRP".
+5. Dit zal gestraft worden met een straf van de eerste categorie.
 
 ## Overtredingen - Schade des persoons
 
