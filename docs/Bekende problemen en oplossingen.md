@@ -16,11 +16,9 @@ Hieronder staan de oplossingen voor deze problemen!
 1. No FiveM ticket was specified. If this is an offline server, maybe set sv_lan? : De oplossing is om je FiveM te restarten! Werkt dit niet? Restart dan je pc en dan kun je je FiveM weer opstarten!
 2. Requestinq authenticating ticket... blijft hangen. : Restart je FiveM duurt dit dan nog lang? Probeer dan je cache te legen! Mocht dit beide niet werken zul je je pc moeten herstarten!
 
-## 1 toets doet meerdere dingen (kofferbak openen doet deur op slot)
+## Keybind problemen
 
-Hiervoor kun je je console openen (F8 toets) en type je hier: `unbind KEYBOARD {toets die voor problemen zorgt}` en hierna moet je je game opnieuw opstarten.
-
-Dus stel ik druk op L en mijn kofferbak gaat open en tegelijk gaat m'n voertuig op slot dan type ik dit in: `unbind KEYBOARD L` en hierna start ik mijn spel opnieuw op.
+Als je problemen hebt met keybinds zoals kofferbakken die niet opengaan of proto's waar je niet in kan praten. Kan je kijken op het command `unbindall` in F8 en reloggen dit kan verhelpen. Je hebt dat de standaard instellingen weer zoals deze vanuit de server komen voor alle knoppen. 
 
 ## Citybug
 
