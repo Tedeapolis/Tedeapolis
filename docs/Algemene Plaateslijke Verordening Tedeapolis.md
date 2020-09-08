@@ -48,6 +48,15 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 6. Het omzeilen van een straf zal resulteren in een straf volgens categorie 7
 7. Bans worden uitgedeeld op basis van de GTA licentie en geldt als zodanig voor alle gebruikers van deze licentie.
 
+### A4 - Aanvullende Wetten en regels
+
+1. Aanvullend op de APV is er het Wetboek Tedeapolis (WTDA), waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in Tedeapolis.
+   * Dit wetboek wordt momenteel nog gemaakt. Echter mag, in Roleplay, uitgegaan worden van het openbaar bestaan van dit Wetboek.
+   * In dit Wetboek is opgenomen alle criminele feiten, de bijbehorende boetes, gevangenisstraffen enzovoorts. 
+2. Dit Wetboek heeft, net als de APV, een basis in het Nederlands Recht. 
+   * Het Nederlands Recht is zodoende leidend, *tenzij* er een Wet of Bepaling is opgenomen in de WTDA. Dan is deze leidend. 
+3. Dit wetboek is, net als deze APV en conform de rechtsstaat, ten alle tijden openbaar.
+
 ## Overtredingen - Verstoring openbare orde (RP)
 
 ### Artikel 1 - FailRP
