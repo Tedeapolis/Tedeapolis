@@ -248,7 +248,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 2. U bent als ambtenaar in functie als u niet buiten dienst bent.
 3. Indien een persoon de regel zoals beschreven in lid 1 overtreed wordt deze bestraft met een straf volgens categorie 1 en zal deze persoon ontslagen worden.
 4. Verder is het niet toegestaan om door de politie in beslag genomen objecten door te handelen naar spelers. Ditzelfde is ook van toepassing op alle andere overheids objecten.
-5. Bij een overtreding van de regel in lid 5 wordt de overtreder ontslagen en hiernaast bestraft volgens de 5e categorie.
+5. Bij een overtreding van de regel in lid 4 wordt de overtreder ontslagen en hiernaast bestraft volgens de 5e categorie.
 6. Onder overheids objecten vallen voorwerpen zoals: medkits, repair kits, politie geweren, enzovoort.
 7. Een ambtenaar buiten dienst mag geen politie wapens bij zich dragen deze dienen ten alle tijden na een dienst opgeborgen te worden in de wapenkluis. Bij overtreding van dit lid zal er gestraft worden volgens de 1e categorie.
 8. Op lid 7 geldt een uitzondering voor zogenoemde dsi leden "dienst speciale interventies" deze leden mogen wel hun wapens buiten dienst behouden.
@@ -357,7 +357,7 @@ Nederlands kunnen spreken is verplicht.
 * Gebruikt /report om mensen te rapporteren die niet naar de regels luisteren. (Maakt de RP veel beter)
 * Bij het pakken van wapens anders dat Handgeweren (Pistolen) moet je Roleplayen dat je deze pakt en een tas op je rug dragen. (Voorbeeld: /me Pakt AK-47 uit tas ).
 * Niet ADVERTEREN met je eigen server/discord in de server zowel als op de discord.
-* Gebruik /Twt (twitter) voor in character berichten, dus juist voor Roleplay.
+* Gebruik Twitter voor in character berichten, dus juist voor Roleplay.
 * Het is verboden voertuigen van jobs te gebruiken voor criminaliteit denk hierbij aan bijvoorbeeld een vuilnis truck.
 * Buiten game communiceren is verboden dit mag alleen door overheidsdiensten gebruikt worden in porto kanalen of bij een vrijstelling
 * Het is verboden op alt accounts geld of wat voor materieel dan ook uit te wisselen
