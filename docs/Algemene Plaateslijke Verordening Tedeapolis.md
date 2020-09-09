@@ -100,6 +100,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 3. Onder ambtenaar vallen de mensen in dienst bij één van de volgende instanties:
     * Politie
     * Koninklijke marechaussee
+    * Justitie
     * Ambulance
     * ANWB
     * Gemeenteraad
