@@ -178,7 +178,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 1. Het is verboden alt characters aan te maken met de intentie het start bedrag over te schrijven naar het account waar normaal op gespeeld wordt.
 2. Hiernaast is het ook verboden om meer dan 3 alts aan te maken. Het aanmaken van meer dan 3 alts zal resulteren in het verwijderen van alle 3 de characters. Wanneer er geld overgezet is zal hiernaast ook de straf zoals beschreven in lid 4 gegeven worden.
 3. Het is toegestaan om een alt character te maken om, bijvoorbeeld, criminele activiteiten te ondernemen. Wanneer een van je characters bij de Overheid werkt, is het *niet* toegestaan om bij een gang te gaan.
-4. Indien de regel zoals beschreven in lid 1 of 3 overtreden wordt zal dit bestraft worden met een straf volgens de 7e categorie, hiernaast zullen alle accounts volledig verwijderd worden.
+4. Indien de regel zoals beschreven in lid 1 of 3 overtreden wordt zal dit bestraft worden met een straf volgens de 8e categorie, hiernaast zullen alle accounts volledig verwijderd worden.
 5. Hoewel Alt Characters toegestaan zijn, is het verboden om alt accounts te maken, of te multiboxen met alt characters. Dit zal worden bestraft met een ban van alle (alt) accounts.
 
 ### Artikel 19 - Voertuigen in gebouwen
