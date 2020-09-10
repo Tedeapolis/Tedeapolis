@@ -43,7 +43,7 @@
 ### A4 - Strafblad
 
 1. Alleen straffen die enige vorm van celstraf bevatten kunnen leiden tot een strafblad.
-2. Een strafblad blijft staan voor een periode van 2 (realtime) maanden, ingaand op de datum van de opgelegde celstraf.
+2. Een strafblad blijft staan voor een periode van 3 (realtime) maanden voor alle geweldsdelicten met celstraf, en 1 maand voor alle overige delicten met celstraf, ingaand op de datum van de opgelegde celstraf.
 3. Wanneer een nieuwe overtreding of misdrijf wordt begaan, wordt de resterende tijd gereset naar de datum van de laatst opgelegde celstraf.
 
 ### A5 - Verduidelijking en algemene aanvulling
@@ -64,6 +64,7 @@
    * Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek;
    * Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een misdrijf waarbij de eigenaar ook veroordeeld is, uitgekocht kunnen worden voor 20% van de cataloguswaarde;
    * Zal deze, wanneer, met inachtneming van de vorige regel, het voertuig tevens uit het water moest worden gehaald, uitgekocht kunnen worden voor 30% van de cataloguswaarde;
+   * Is er een vastgesteld maximum voor bovenstaande uitkoopbedragen van ten hoogste €200,000
    * Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eigenaar geen strafbaar feit ten laste is gelegd, of kan gelegd worden, welke in directe zin gekoppeld is aan de reden van inbeslagname.
 
 ### A7 - Openstaande boetes
@@ -164,7 +165,7 @@
 
 ### Artikel I-8 Geldige verklaring herkomst contanten (321 SR)
 
-1. Wanneer er tijdens aanhouding van een persoon door Politie of Koninklijke Marechaussee een geldbedrag, hoger dan €10,000 aan contanten, aangetroffen wordt bij die persoon, zal er om geldige verklaring van herkomst gevraagd worden.
+1. Wanneer er tijdens aanhouding van een persoon door Politie of Koninklijke Marechaussee een geldbedrag, hoger dan €15,000 aan contanten, aangetroffen wordt bij die persoon, zal er om geldige verklaring van herkomst gevraagd worden.
 2. Wanneer deze verklaring niet bewijsbaar of redelijkerwijs aannemelijk is, is het de Politie of Koninklijke Marechaussee toegestaan dit bedrag in beslag te nemen voor onderzoek.
 3. Wanneer onderzoek, volgend op de inbeslagname zoals bedoeld in lid 2, geen criminele herkomst kan aantonen, dan is Politie of Koninklijke Marechaussee gemaand tot restitutie.
 4. Wanneer onderzoek, volgend op de inbeslagname zoals bedoeld in lid 2, criminele herkomst aantoont, dan zal de in beslag genomen som vernietigd worden.
