@@ -51,7 +51,6 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 ### A4 - Aanvullende Wetten en regels
 
 1. Aanvullend op de APV is er het Wetboek Tedeapolis (WTDA), waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in Tedeapolis.
-   * Dit wetboek wordt momenteel nog gemaakt. Echter mag, in Roleplay, uitgegaan worden van het openbaar bestaan van dit Wetboek.
    * In dit Wetboek is opgenomen alle criminele feiten, de bijbehorende boetes, gevangenisstraffen enzovoorts. 
 2. Dit Wetboek heeft, net als de APV, een basis in het Nederlands Recht. 
    * Het Nederlands Recht is zodoende leidend, *tenzij* er een Wet of Bepaling is opgenomen in de WTDA. Dan is deze leidend. 
@@ -175,11 +174,12 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 ### Artikel 18 - Alt Characters
 
-1. Het is verboden alt characters aan te maken met de intentie het start bedrag over te schrijven naar het account waar normaal op gespeeld wordt.
-2. Hiernaast is het ook verboden om meer dan 3 alts aan te maken. Het aanmaken van meer dan 3 alts zal resulteren in het verwijderen van alle 3 de characters. Wanneer er geld overgezet is zal hiernaast ook de straf zoals beschreven in lid 4 gegeven worden.
-3. Het is toegestaan om een alt character te maken om, bijvoorbeeld, criminele activiteiten te ondernemen. Wanneer een van je characters bij de Overheid werkt, is het *niet* toegestaan om bij een gang te gaan.
-4. Indien de regel zoals beschreven in lid 1 of 3 overtreden wordt zal dit bestraft worden met een straf volgens de 8e categorie, hiernaast zullen alle accounts volledig verwijderd worden.
-5. Hoewel Alt Characters toegestaan zijn, is het verboden om alt accounts te maken, of te multiboxen met alt characters. Dit zal worden bestraft met een ban van alle (alt) accounts.
+1. Onder een 'alt character' wordt verstaan een 2e, of 3e character gemaakt door dezelfde speler, op hetzelfde account. Een 'alt account' is een 2e, of 3e (etc) account waar op gespeeld wordt door dezelfde speler.
+2. Het is verboden alt characters aan te maken met de intentie het start bedrag over te schrijven naar het account waar normaal op gespeeld wordt.
+3. Hiernaast is het ook verboden om meer dan 3 alts aan te maken. Het aanmaken van meer dan 3 alts zal resulteren in het verwijderen van alle 3 de characters. Wanneer er geld overgezet is zal hiernaast ook de straf zoals beschreven in lid 5 gegeven worden.
+4. Het is toegestaan om een alt character te maken om, bijvoorbeeld, criminele activiteiten te ondernemen. Wanneer een van je characters bij de Overheid werkt, is het *niet* toegestaan om bij een gang te gaan.
+5. Indien de regel zoals beschreven in lid 2 of 4 overtreden wordt zal dit bestraft worden met een straf volgens de 8e categorie, hiernaast zullen alle accounts volledig verwijderd worden.
+6. Hoewel Alt Characters toegestaan zijn, is het verboden om alt accounts te maken, of te multiboxen met alt characters. Dit zal worden bestraft met een ban van alle (alt) accounts.
 
 ### Artikel 19 - Voertuigen in gebouwen
 
