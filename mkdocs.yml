@@ -3,3 +3,8 @@ site_description: 'Documentatie van tedeapolis roleplay'
 site_author: 'Tedeapolis'
 theme:
   name: material
+  features:
+    - tabs
+plugins:
+  - search
+  - awesome-pages
